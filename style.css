@@ -83,7 +83,7 @@ body {
 }
 
 .container {
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     text-align: center;
     background-color: var(--grey-800);
     border-radius: 12px;
@@ -133,7 +133,7 @@ li:hover {
 li a {
     color: var(--white);
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 @media only screen and (min-width: 23.4375rem) {
@@ -141,7 +141,7 @@ li a {
     .container {
         padding: 1.5em;
         width: 20.44rem;
-        height: 36.1875rem;
+        /* height: 36.1875rem; */
     }
 }
 
@@ -150,7 +150,7 @@ li a {
     .container {
         padding: 2.5em;
         width: 31.875rem;
-        height: 38.1875rem;
+        /* height: 38.1875rem; */
     }
 }
 
@@ -159,7 +159,7 @@ li a {
     .container {
         padding: 2.5em;
         width: 24rem;
-        height: 38.1875rem;
+        /* height: 38.1875rem; */
     }
 }
 
