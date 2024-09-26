@@ -83,7 +83,7 @@ body {
 }
 
 .container {
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     text-align: center;
     background-color: var(--grey-800);
     border-radius: 12px;
